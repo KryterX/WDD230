@@ -1,0 +1,37 @@
+div.head{
+    text-align:center;
+    background-color:rgb(16, 122, 209);
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    box-sizing: border-box;
+    padding: 2%;
+    justify-items: center;
+}
+.name{
+    grid-column: span 2;
+    font-size:2em;
+    justify-self: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.head2{
+    text-align:center;
+}
+.head > img{
+    max-width: 100%;
+}
+.list{
+    text-align:left;
+}
+footer{
+    text-align:center;
+    background-color:rgb(19, 95, 156);
+}
+.update{
+    text-align:center;
+    
+}
+html{
+    margin-left: 30%;
+    margin-right: 30%;
+}
