@@ -1,0 +1,57 @@
+HTML
+-----Header-----
+<!DOCTYPE html5>
+<html>
+    <header>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/Main_Page.css">
+        
+    </header>
+</html>
+-----list-----
+<p class="list">
+    <ul class="list">
+        <li>Lesson 2: <a href="">Title</a></li>
+        <li>Lesson 3: <a href="">Title</a></li>
+        <li>Lesson 4: <a href="">Title</a></li>
+        <li>Lesson 5: <a href="">Title</a></li>
+        <li>Lesson 6: <a href="">Title</a></li>
+        <li>Lesson 7: <a href="">Title</a></li>
+        <li>Lesson 8: <a href="">Title</a></li>
+        <li>Lesson 9: <a href="">Title</a></li>
+        <li>Lesson 10: <a href="">Title</a></li>
+        <li>Lesson 11: <a href="">Title</a></li>
+    </ul>
+</p>
+
+-----line-----
+<hr>
+
+-----image-----
+<img  src="" alt="">
+      
+-----update-----
+<p class="update">
+    Last Update <span id="date"></span>
+</p>
+<script>
+    document.getElementById("date").innerHTML=document.lastModified;;
+</script>
+
+
+-----link in text-----
+<p class="list">
+    Lesson 2: <a href="">Title</a>
+</p>
+
+    
+
+
+
+
+
+CSS 

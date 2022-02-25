@@ -1,0 +1,15 @@
+@media (max-width:1082px){
+    html{
+        text-align: left;
+    }
+}
+@media (max-width:640px){
+    html{
+        text-align: center;
+    }
+}
+@media (max-width:580px){
+    html{
+        text-align: right;
+    }
+}
