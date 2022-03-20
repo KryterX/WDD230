@@ -1,39 +1,4 @@
-/*
-const list = document.querySelector('.list');
-const inputs = document.querySelector('#chapter');
-const useButton = document.querySelector('button');
 
-useButton.addEventListener('click', () => {
-
-
-    let myItem = inputs.value;
-    inputs.value = '';
-    if(myItem!==""){
-        const listItem = document.createElement('li');
-        const listValue = document.createElement('span');
-        listItem.appendChild(listValue);
-        listValue.textContent = myItem;
-        const listBtn = document.createElement('button');
-        listItem.appendChild(listBtn);
-        listBtn.textContent = 'X';
-        list.appendChild(listItem);
-    }
-    
-    
-    
-    
-    
-
-    listBtn.addEventListener('click', () => {
-        list.removeChild(listItem);
-    })
-
-    inputs.focus();
-    
-
-
-})
-*/
 
 const list = document.querySelector('.list');
 const inputs = document.querySelector('#chapter');
