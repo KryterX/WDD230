@@ -25,7 +25,7 @@ main picture.heroimg img {
 	width: 100%;
 }
 
-/** Discovery page**/
+
 .container section p {
 	font-size: smaller;
 	font-family: "Domine", serif;
@@ -54,12 +54,12 @@ main picture.heroimg img {
 	margin: 10px auto;
 }
 
-/*local Strage*/
+
 .visitor {
 	font-weight: 600;
 }
 
-/**header**/
+
 
 .social {
 	margin: 0;
@@ -127,7 +127,7 @@ nav ul li a {
 	
 }
 @media screen and (max-width: 412px) {
-	/** menu **/
+	
 	header {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -162,7 +162,7 @@ nav ul li a {
 	#humbuergerBtn {
 		text-align: right;
 	}
-	/**content**/
+	
 	.heroimg {
 		display: grid;
 		grid-column: 1/2;
@@ -239,7 +239,7 @@ nav ul li a {
 		display: none;
 	}
 
-	/** footer **/
+	
 
 	footer {
 		display: grid;
@@ -286,7 +286,7 @@ nav ul li a {
 		color: red;
 	}
 
-	/** Form **/
+	
 	.member-t {
 		grid-column: 1/2;
 		text-align: center;
@@ -424,7 +424,7 @@ nav ul li a {
 		display: none;
 	}
 
-	/** thank you form**/
+	
 	.t-container {
 		min-height: 100vh;
 		position: relative;
@@ -489,7 +489,7 @@ nav ul li a {
 		margin-left: 6em;
 	}
 }
-/**directory-cardV**/
+
 
 .cards {
 	display: grid;
@@ -510,7 +510,7 @@ nav ul li a {
 	box-shadow: 0 0 40px #777;
 }
 
-/**directory-listV**/
+
 
 .cards .listV {
 	grid-template-columns: repeat(4, 1fr);
@@ -554,7 +554,7 @@ main .btn-primary {
 	padding: 1em;
 }
 
-/**Contact Form**/
+
 
 .gmap iframe {
 	position: absolute;
