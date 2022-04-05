@@ -361,4 +361,8 @@
 		text-align: left;
 		margin-left: 6em;
 	}
+    .icons{
+		height: auto;
+    	max-width: 100%;
+	}
 }
