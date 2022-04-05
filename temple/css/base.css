@@ -1,0 +1,113 @@
+html{
+    background-color: aqua;
+}
+header{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+logo{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+nav{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+social{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+reserve{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+main{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+pic1{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+word1{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+pic2{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+word2{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+footer{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+logo{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+social{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
+contact{
+    grid-column: 1fr 1fr 1fr;
+    background-color: rgb(255, 255, 255);
+    border: 30px;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+}
